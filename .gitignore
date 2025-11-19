@@ -1,0 +1,9 @@
+asset_db/*
+media/*
+src/media/*
+model/*
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.env

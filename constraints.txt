@@ -1,0 +1,6 @@
+torch==2.4.0
+torchvision==0.19.0
+xformers==0.0.27.post2
+flash-attn==2.8.3
+spconv==2.3.8
+kaolin==0.1

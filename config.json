@@ -1,0 +1,8 @@
+{
+    "log_level": "info",
+    "agent_model": "devstral:24b",
+    "improver_model": "llama3.1",
+    "initial_decomposer_model": "deepseek-r1:32b",
+    "final_decomposer_model": "deepseek-r1:32b",
+    "scene_analyzer_model": "deepseek-r1:32b"
+}
