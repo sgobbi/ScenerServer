@@ -67,10 +67,6 @@ We provide an installation guide of all python dependencies.
 
 
 1.  **Clone this Repository:**
-    ```bash
-    git clone https://github.com/CAOR-XRteam/scener_server
-    cd Scener
-    ```
 
 2.  **Install the TRELLIS Library:**
     This project depends heavily on the `TRELLIS` image-to-3D library. You must first follow the official installation instructions from the Microsoft repository:
