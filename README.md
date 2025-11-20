@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the server-side component of the [3D Scene Generation Platform](https://github.com/arteume/Scener), a system designed to enable users to interactively create and modify 3D environments.
+This document outlines the server-side component of a [3D Scene Generation Platform], a system designed to enable users to interactively create and modify 3D environments in virtual reality
 
 The server is a Python-based application responsible for:
 *   Managing persistent WebSocket connections with clients.
